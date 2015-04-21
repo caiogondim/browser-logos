@@ -417,3 +417,7 @@ takedown and we will remove it as soon as possible.
 
 Read [Paul Irish](https://github.com/paulirish/)'s ["High-res Browser
 Logos"](http://www.paulirish.com/2010/high-res-browser-icons/) blog post.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/caiogondim/browser-logos/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
